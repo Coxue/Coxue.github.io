@@ -83,4 +83,9 @@
 42 中文 改文件格式  UTF-8
    代码中加命令 <meta http-equiv="Count-type" content="text/html;charset=utf-8"/>
    在coifig 中加入encoding：UTF-8 不加空行
-  
+
+43  history >akhdflaiheg.txt                  //将历史命令存到akhdflaiheg.txt
+44  echo "kehgfkwief"                            //显示k...
+45  echo "kehgfkwief" >> akhdflaiheg.txt      //   >>追加
+46  vi akhdflaiheg.txt                         //编辑
+47  Insert按键    //插入  Esc   //退出插入  qw   //保存并退出  q!   //强制退出

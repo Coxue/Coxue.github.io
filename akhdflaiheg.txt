@@ -1,0 +1,143 @@
+    1  git config --global user.name "Coxue""
+    2   git config --global user.name "Coxue"
+    3  git config --global user.mail "1312437341.@qq.com"
+    4  git config --global user.name "Coxue"
+    5  git config --global user.mail "1312437341.qq.com"
+    6  git config --global user.name "Coxue"
+    7  git config --global user.mail "1312437341.qq.com"
+    8  echo "# Coxue.github.io" >> README.md
+    9  git init
+   10  git add README.md
+   11  git commit -m "first commit"
+   12  git remote add origin https://github.com/Coxue/Coxue.github.io.git
+   13  git push -u origin master
+   14  git config --global user.name "Coxue"
+   15  git config --global user.mail "1312437341@qq.com"
+   16  echo "# Coxue.github.io" >> README.md
+   17  git init
+   18  git add README.md
+   19  git commit -m "first commit"
+   20  git remote add origin https://github.com/Coxue/Coxue.github.io.git
+   21  git push -u origin master
+   22  git config --global user.name "Coxue"
+   23  git config --global user.email "1312437341@qq.com"
+   24  echo "# Coxue.github.io" >> README.md
+   25  git init
+   26  git add README.md
+   27  git commit -m "first commit"
+   28  git remote add origin https://github.com/Coxue/Coxue.github.io.git
+   29  git push -u origin master
+   30  git puil origin master
+   31  git pull origin master
+   32  git pull origin master
+   33  git status
+   34  git add .
+   35  git status
+   36  git commit -m ",,,,"
+   37  git config --global user.name "Coxue""
+   38   git config --global user.name "Coxue"
+   39  git config --global user.mail "1312437341.@qq.com"
+   40  git status
+   41  exit
+   42  ?
+   43  git status
+   44  git push -u origin master
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "hjbhj"
+   49  git push -u origin master
+   50  git status
+   51  git push -u origin master
+   52  git status
+   53  git add .\
+   54  git add .
+   55  git status
+   56  git commit -m "hjbhj"
+   57  git push -u origin master
+   58  git config --global user.name "Coxue"
+   59  git config --global user.email "1312437341@qq.com"
+   60  $ echo "# Coxue.github.io" >> README.md
+   61  git add README.md
+   62  git commit -m "first commit"
+   63  git remote add origin https://github.com/Coxue/Coxue.github.io.git
+   64  git push -u origin master
+   65  git config --global user.name "Coxue"
+   66  git config --global user.email "1312437341@qq.com"
+   67   echo "# Coxue.github.io" >> README.md
+   68  git commit -m "first commit"
+   69  git remote add origin https://github.com/Coxue/Coxue.github.io.git
+   70  git push -u origin masterbash: $: command not found
+   71  git pull
+   72  git status
+   73  git add .
+   74  git status
+   75  git commit -m "ggg"
+   76  git push -u origin master
+   77  touch index.html
+   78  git add .
+   79  git commit -m "1111"
+   80  git push -u origin master
+   81  git add .
+   82  git commit -m "1111"
+   83  git push -u origin master
+   84  git add .
+   85  git commit -m "1111"
+   86  git push -u origin master
+   87  git add .
+   88  git commit -m "1111"
+   89  git push -u origin master
+   90  git push -u origin master
+   91  git add .
+   92  git commit -m "1111"
+   93  git push -u origin master
+   94  git status 
+   95  git add .
+   96  git commit -m 'fix'
+   97  git push -u origin master
+   98  git status 
+   99  git commit -m "...."
+  100  git push -u origin master
+  101  git pull
+  102  git status
+  103  git add .
+  104  git status
+  105  git commit -m "...."
+  106  git push -u origin master
+  107  git pull origin master
+  108  gid add .
+  109  gid add .
+  110  gid add .
+  111  git pull origin master
+  112  git add .
+  113  git commit -m "陈伟霆"
+  114  git push -u origin master
+  115  git pull origin master
+  116  git status
+  117  git add .
+  118  git commit -m "图片"
+  119  git commit -m "图片"
+  120  git pull origin master
+  121  git add .
+  122  git commit -m "图片"
+  123  git push -u origin master
+  124  git pull origin master
+  125  git add .
+  126  git commit -m "图片"
+  127  git push -u origin master
+  128  git push -u origin master
+  129  git pull origin master
+  130  git pull origin master
+  131  git add .
+  132  git commit -m "图片"
+  133  git push -u origin master
+  134  git pull
+  135  git add .
+  136  git commit -m "命令"
+  137  git push -u origin master
+  138  history 
+  139  history >akhdflaiheg.txt
+kehgfkwiefskdhflwieh
+dskfhalef
+laejflq
+lsjdflw
